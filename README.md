@@ -1,1 +1,3 @@
 # freetype
+
+- Precompiled Freetype Library
